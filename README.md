@@ -11,7 +11,7 @@ Using this application you can:
 - update driver's data
 - delete the driver/manufacturer/car
 - get information about the driver/car/manufacturer
-- login and logout
+- login/logout/registration
 
 ## :scroll:  Project Structure
 
