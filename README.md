@@ -37,7 +37,7 @@ In this project used the n-tire architecture
 - Clone it to your PC and open it in IDE
 - Create a database using init_db.sql ("/resources" folder)
 - Edit the ConnectionUtil class to add custom settings:
-```
+```java
     private static final String URL = "URL_TO_YOUR_DATABASE";
     private static final String USERNAME = "YOUR_DATABASE_USERNAME";
     private static final String PASSWORD = "YOUR_DATABASE_PASSWORD";
