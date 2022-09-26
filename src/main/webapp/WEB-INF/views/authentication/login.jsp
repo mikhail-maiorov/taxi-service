@@ -15,6 +15,7 @@
         <td>Enter your login:</td>
         <td>Enter your password:</td>
         <td>Login</td>
+        <td>Registration</td>
     </tr>
     <tr>
         <td>
@@ -25,6 +26,11 @@
         </td>
         <td>
             <input type="submit" name="add" form="user">
+        </td>
+        <td>
+            <button>
+                <a href="${pageContext.request.contextPath}/drivers/add">Registration</a>
+            </button>
         </td>
     </tr>
 </table>
