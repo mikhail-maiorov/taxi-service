@@ -15,11 +15,11 @@ Using this application you can:
 
 ## :scroll:  Project Structure
 
-In this project used the n-tire architecture
+In this project used the n-tier architecture
 
-- DAO tire - allows to modify data in database using CRUD methods
-- Service tire - this is where all the logic happens
-- Controller tire - provides an interface to interact with application
+- DAO tier - allows to modify data in database using CRUD methods
+- Service tier - this is where all the logic happens
+- Controller tier - provides an interface to interact with application
 
 ## :hammer_and_wrench:  Technologies
 
